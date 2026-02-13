@@ -29,10 +29,10 @@ It is designed to deliver fast, reliable, and scalable responses suitable for re
 - Reduce manual support dependency  
 
 
-- Results 1:
+🔹 Results 1:
 ![](https://github.com/RiyaMondal123/codealpha_tasks-/blob/main/faq-chatbot-main%20-%20TASK%201/Prediction%201.png)
 
-- Results 2:
+🔹 Results 2:
 ![](https://github.com/RiyaMondal123/codealpha_tasks-/blob/main/faq-chatbot-main%20-%20TASK%201/Prediction%202.png)
 
 ...............................................................................................
@@ -44,16 +44,16 @@ This application enables seamless text translation across multiple languages thr
 Built with a contemporary dark theme and refined typography, the project emphasizes usability, efficiency, and visual consistency. The application is fully compatible with the latest Python versions, ensuring stability and long-term maintainability.<br><br>
 
 
-- Results 1:
+🔹 Results 1:
 ![](https://github.com/sovanshit/codealpha_tasks/blob/main/Language-Translator%20-%20TASK%202/Result%201.png)
 
-- Results 2:
+🔹 Results 2:
 ![](https://github.com/sovanshit/codealpha_tasks/blob/main/Language-Translator%20-%20TASK%202/Result%202.png)
 
-- Results 3:
+ 🔹 Results 3:
 ![](https://github.com/sovanshit/codealpha_tasks/blob/main/Language-Translator%20-%20TASK%202/Result%203.png)
 
-- Results 4:
+ 🔹 Results 4:
 ![](https://github.com/sovanshit/codealpha_tasks/blob/main/Language-Translator%20-%20TASK%202/Result%204.png)
 
 

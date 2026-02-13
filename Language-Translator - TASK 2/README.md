@@ -1,18 +1,44 @@
-# Language-Translator TASK 2
+# 🌐 Language Translator – Task 2
 
-A sleek and modern GUI-based Language Translator developed using Python, Tkinter, and the Deep Translator API.<br><br>
-This application enables seamless text translation across multiple languages through a clean, responsive, and intuitive user interface. It is designed to deliver accurate translations while ensuring smooth performance and reliability.<br><br>
-Built with a contemporary dark theme and refined typography, the project emphasizes usability, efficiency, and visual consistency. The application is fully compatible with the latest Python versions, ensuring stability and long-term maintainability.<br><br>
+## 📌 Project Overview
 
+The Language Translator is a GUI-based desktop application developed using **Python**, **Tkinter**, and the **Deep Translator API**.  
+It enables seamless multilingual text translation through a clean, responsive, and user-centric interface.
 
-- Results 1:
+The system is designed to ensure accurate translations while maintaining smooth performance and operational stability.
+
+## 🏗️ System Design & Compatibility
+
+The application is built with a modern dark-themed interface to enhance readability and user experience.
+
+Key design considerations include:
+
+- 🖥️ Structured dual-panel layout  
+- 🎛️ Intuitive language selection controls  
+- ⚡ Efficient API communication  
+- 🧩 Maintainable and scalable architecture  
+- 🐍 Compatibility with the latest Python versions  
+
+# 🚀 Core Features
+
+- 🌍 Multi-language translation support  
+- ✍️ Real-time text processing  
+- 📄 Instant translated output display  
+- 🎨 Clean and responsive GUI design  
+- 🔄 Optimized application performance  
+
+## 🖼️ Interface Snapshot
+
+The screenshot below illustrates the runtime interface of the application, including language selection, input area, output panel, and execution controls.
+
+### 🔹 Case Study 01:
 ![](https://github.com/sovanshit/codealpha_tasks/blob/main/Language-Translator%20-%20TASK%202/Result%201.png)
 
-- Results 2:
+### 🔹 Case Study 02:
 ![](https://github.com/sovanshit/codealpha_tasks/blob/main/Language-Translator%20-%20TASK%202/Result%202.png)
 
-- Results 3:
+### 🔹 Case Study 03:
 ![](https://github.com/sovanshit/codealpha_tasks/blob/main/Language-Translator%20-%20TASK%202/Result%203.png)
 
-- Results 4:
+### 🔹 Case Study 04:
 ![](https://github.com/sovanshit/codealpha_tasks/blob/main/Language-Translator%20-%20TASK%202/Result%204.png)

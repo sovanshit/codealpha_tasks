@@ -15,13 +15,13 @@ The system integrates text preprocessing, vectorization, and classification tech
 It is designed to deliver fast, reliable, and scalable responses suitable for real-world support systems.
 
 ## 🧰 Libraries & Tools
-- Scikit-learn  
-- NLTK  
-- NumPy  
-- Pandas  
-- Regular Expressions (re)  
-- NLPAug  
-
+- **Scikit-learn** – Machine learning model building and classification  
+- **NLTK** – Text preprocessing and NLP tasks  
+- **NumPy** – Numerical operations  
+- **Pandas** – Data handling and analysis  
+- **re (Regular Expressions)** – Data cleaning and pattern extraction  
+- **NLPAug** – Text data augmentation
+  
 ## 🚀 Project Goals
 - Develop an automated FAQ response system  
 - Implement NLP-based text processing  

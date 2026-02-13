@@ -73,16 +73,16 @@ Key design considerations include:
 
 The screenshot below illustrates the runtime interface of the application, including language selection, input area, output panel, and execution controls.
 
-###🔹 Result 1:
+### 🔹 Result 1:
 ![](https://github.com/sovanshit/codealpha_tasks/blob/main/Language-Translator%20-%20TASK%202/Result%201.png)
 
-###🔹 Result 2:
+### 🔹 Result 2:
 ![](https://github.com/sovanshit/codealpha_tasks/blob/main/Language-Translator%20-%20TASK%202/Result%202.png)
 
-###🔹 Result 3:
+### 🔹 Result 3:
 ![](https://github.com/sovanshit/codealpha_tasks/blob/main/Language-Translator%20-%20TASK%202/Result%203.png)
 
-###🔹 Result 4:
+### 🔹 Result 4:
 ![](https://github.com/sovanshit/codealpha_tasks/blob/main/Language-Translator%20-%20TASK%202/Result%204.png)
 
 
